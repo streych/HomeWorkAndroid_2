@@ -4,7 +4,9 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:layout_gravity="center_vertical|center_horizontal"
+    android:padding="40dp"
     android:orientation="vertical"
+    android:background="@drawable/book"
     tools:context=".MainActivity">
 
     <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
